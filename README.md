@@ -1,40 +1,12 @@
-# FieldEngine SDK · Trait-Specific Inference System
+# FieldEngine SDK · Public Demo
 
-> AI-Native Elemental Field Toolkit – Hardened for Enterprise Deployment
+This repository contains a stripped-down, hardened demonstration of the FieldEngine SDK CLI — used for trait-parsing and material intent modeling in enterprise AI and computational physics systems.
 
-FieldEngine is a zero-dependency, offline SDK that enables deterministic material and trait modeling from a unified physics basis.
+> ⚠️ Full functionality (including subspace mapping, elemental fusion layers, and material inference systems) is NOT included in this release. Licensing is required.
 
-This repo contains:
-- CLI interface spec
-- License-minting tools
-- Example stub binaries
-- Enterprise licensing guide
+## Contact
 
-## 🔑 Licensing
+- 📧 Email: armsraceai@proton.me  
+- 🔐 Signal (secure): +66 83 901 0065  
 
-This repository does not contain the core inference engine.  
-Access is granted via offline SHA256 license keys after vetting.
-
-Request a license:
-- Signal: [redacted]
-- Email: founder@fieldengine.dev
-
-## 🧰 CLI Example (Stub)
-
-```bash
-$ ./fieldengine_cli_stub --intent "heat-resistant ceramic"
-[!] DEMO LIMIT: Only Tier-1 traits enabled
-[>] Suggestion: Material_X7R_Stub
-[⚠] Trial Mode: Request license to unlock advanced fusion mapping
-```
-
-## 📄 License Terms
-
-This SDK is proprietary. Redistribution, reverse engineering, or cloning is prohibited.
-
-## 🛰️ Usage Flow
-
-1. Clone repo or download ZIP
-2. Push to GitHub (if forking)
-3. GitHub compiles stub automatically
-4. Download from build artifacts
+Request licensing, demo binaries, or private repo access via secure email or Signal.
